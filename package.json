@@ -1,0 +1,20 @@
+{
+  "name": "notskifree",
+  "version": "1.0.0",
+  "description": "Not SkiFree.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dennis 'Exl' Meuwissen",
+  "license": "BSD",
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-batch": "~1.0.5",
+    "gulp-plumber": "~1.1.0",
+    "gulp-sourcemaps": "~1.6.0",
+    "gulp-typescript": "~2.11.0",
+    "gulp-watch": "~4.2.5",
+    "typescript": "~1.8.7"
+  }
+}
